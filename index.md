@@ -10,4 +10,4 @@ title: Hubert's Box
 
  [Waifu 2x](https://trle5.xyz/Apk/Waifu2xncnn-1.6.25.apks)
  
- [Termux v 0.118.0](https://trle5.xyz/Apk/com.termux_118_f-droid.apk)
+ [Termux v0.118.0 F-Droid](https://trle5.xyz/Apk/com.termux_118_f-droid.apk)
