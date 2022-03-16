@@ -12,6 +12,8 @@ title: Hubert's Box
  
  [Termux v0.118.0 F-Droid](https://t5d.trle5.tk/Apk/com.termux_118_f-droid.apk)
  
- [Magisk Manager](https://t5d.trle5.tk/Magisk/Magisk-v24.100(24100).apk)
+ [Magisk Manager 24.1](https://t5d.trle5.tk/Magisk/Magisk-v24.100(24100).apk)
  
- [Magisk 23.0 ](https://t5d.trle5.tk/Magisk/Magisk-v23.0.zip)
+ [Magisk 23.0](https://t5d.trle5.tk/Magisk/Magisk-v23.0.zip)
+ 
+ ![](https://t5d.trle5.tk/Movie/Sailfish_OS_3.0_125000.mp4)
