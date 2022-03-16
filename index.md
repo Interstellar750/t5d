@@ -4,10 +4,14 @@ title: Hubert's Box
 
 # View Flies
 
- [Black Out - Daxten](https://trle5.xyz//Music/Black%20Out%20-%20Daxten.mp3)
+ [Black Out - Daxten](https://t5d.trle5.tk/Music/Black%20Out%20-%20Daxten.mp3)
 
- [SAI](https://trle5.xyz/Apk/SAI-4.5.apk)
+ [SAI](https://t5d.trle5.tk/Apk/SAI-4.5.apk)
 
- [Waifu 2x](https://trle5.xyz/Apk/Waifu2xncnn-1.6.25.apks)
+ [Waifu 2x](https://t5d.trle5.tk/Apk/Waifu2xncnn-1.6.25.apks)
  
- [Termux v0.118.0 F-Droid](https://trle5.xyz/Apk/com.termux_118_f-droid.apk)
+ [Termux v0.118.0 F-Droid](https://t5d.trle5.tk/Apk/com.termux_118_f-droid.apk)
+ 
+ [Magisk Manager](https://t5d.trle5.tk/Magisk/Magisk-v24.100(24100).apk)
+ 
+ [Magisk 23.0 ](https://t5d.trle5.tk/Magisk/Magisk-v23.0.zip)
