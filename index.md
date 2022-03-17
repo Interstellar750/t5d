@@ -18,4 +18,4 @@ title: Hubert's Box
  
  [Sailfish OS 3.0 demo video](https://t5d.trle5.tk/Movie/Sailfish_OS_3.0_125000.mp4)
  
- [GFX Tool](https://t5d.trle5.tk/Apk/GFXtool-10.2.1.apks)
+ [GFX Tool](https://t5d.trle5.tk/Apk/GFX工具箱-10.2.1.apks)
