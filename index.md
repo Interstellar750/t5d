@@ -21,3 +21,5 @@ title: Hubert's Box
  [GFX Tool](https://t5d.trle5.tk/Apk/GFX-tools-10.2.1.apks)
  
  [Diffuse Wallpaper](https://t5d.trle5.tk/Apk/Diffuse-1.0.0.0.apks)
+ 
+ [ADB 工具安装器](https://t5d.trle5.tk/Apk/ADB-tools-3.0.apk)
